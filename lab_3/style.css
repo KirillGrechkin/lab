@@ -1,0 +1,24 @@
+body{
+    background: url(1618440457_24-funart_pro-p-oboi-fon-besshovnii-fon-24.jpg);
+    color: black;
+    
+
+}
+p{
+    text-align: right;
+}
+h1, h2{
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    color: red;
+}
+em{
+    border-bottom: 3px double;
+    padding: 10px;
+}
+strong{
+    font-family: 'Caveat', sans-serif;
+}
+h1, h2, p{
+    margin: 20px;
+}
