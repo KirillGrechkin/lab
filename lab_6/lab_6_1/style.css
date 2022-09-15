@@ -1,0 +1,34 @@
+#header{
+   background-color: #CCDDEE;
+   width: 100%;
+   height: 150px;
+}
+.clearfix::after {
+   content: "";
+   display: table;
+   clear: both;
+}
+#inner{
+   margin-top: 10px;
+   display: flex;
+   height: 350px;
+}
+#left{
+width: 30%;
+background-color: #E0EDCB;
+margin-right: 10px;
+}
+#center{
+width: 40%;
+}
+#right{
+width: 30%;
+background-color: #E1E3F4;
+margin-left: 10px;
+}
+#footer{
+   background-color: #DDCCEE;
+   width: 100%;
+   margin-top: 10px;
+   height: 150px;
+}
